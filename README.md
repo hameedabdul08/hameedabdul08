@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Hameed Abdul
 
-<!--
-**hameedabdul08/hameedabdul08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS in Information Technology Management — Belhaven University
+📚 Currently learning Java | Core Java | OOP | Data Structures | JDBC
+🌱 Building my first Java projects and growing my development skills
+💼 Background in Administration & Office Management
+📍 Based in Dallas, TX
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/hameedabdul08/)
+📧 Hameed.abd2101@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- ☕ Learning Core Java & OOP concepts
+- 📂 Building practice projects in my [java-learning](https://github.com/hameedabdul-08/java-learning) repo
+- 🎯 Goal: Land my first Java Developer role
