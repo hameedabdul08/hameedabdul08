@@ -1,11 +1,17 @@
 # 👋 Hi, I'm Hameed Abdul
 
 🎓 MS in Information Technology Management — Belhaven University
+
 📚 Currently learning Java | Core Java | OOP | Data Structures | JDBC
+
 🌱 Building my first Java projects and growing my development skills
+
 💼 Background in Administration & Office Management
+
 📍 Based in Dallas, TX
+
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/hameedabdul08/)
+
 📧 Hameed.abd2101@gmail.com
 
 ---
